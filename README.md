@@ -1,2 +1,2 @@
-# Prueba3
-Esta es la tercera prueba. Intento 
+# Python para Ciencia de Datos y Big Data Escencial
+En este repositorio se encuentra el siguiente contenido:
